@@ -1,1 +1,2 @@
-#komentarz
+CREATE DATABASE firma;
+
