@@ -1,1 +1,2 @@
+CREATE DATABASE bdp_lab2;
 
